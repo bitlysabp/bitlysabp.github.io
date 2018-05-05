@@ -1,0 +1,33 @@
+html body {
+  background: url(/img/bg.png) no-repeat fixed !important;
+}
+
+.welcome {
+  background-color: transparent !important;
+}  
+.welcome .welcome-button {
+  background-color: #C50001;
+}
+
+.hero-tagline-highlight {
+  color: #C50001 !important;
+}
+
+.section--hero {
+  background-image: none !important;
+}
+
+.rails-logo {
+    flex: 0 0 500px;
+    height: 366px;
+    background-repeat: no-repeat;
+    background-size: 200px 70px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png);
+    background-position: center;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.top-bar {
+  background-color: #C50001 !important;
+}
