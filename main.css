@@ -1,16 +1,16 @@
 html body {
-  background: url(/img/bg.png) no-repeat fixed !important;
+  background: url(/img/bg1.png) no-repeat fixed !important;
 }
 
 .welcome {
   background-color: transparent !important;
 }  
 .welcome .welcome-button {
-  background-color: #C50001;
+  background-color: rgba(353,99,82,0.5);
 }
 
 .hero-tagline-highlight {
-  color: #C50001 !important;
+  color: rgba(353,99,82,0.5) !important;
 }
 
 .section--hero {
@@ -29,5 +29,5 @@ html body {
 }
 
 .top-bar {
-  background-color: #C50001 !important;
+  background-color: rgba(353,99,82,0.5) !important;
 }
