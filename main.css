@@ -1,5 +1,5 @@
 html body {
-  background: url(/img/bg1.png) no-repeat fixed !important;
+  background: url(/img/bg1.png) repeat fixed !important;
 }
 
 .welcome {
